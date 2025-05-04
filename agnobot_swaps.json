@@ -1,0 +1,10 @@
+[
+  {
+    "event": "COPY_BUY_ERROR",
+    "error": "Swap fetch error: {\"error\":\"Failed to deserialize the JSON body into the target type\"}",
+    "copiedTxid": "Simulated-Test-BuyTxid",
+    "tokenMint": "So11111111111111111111111111111111111111112",
+    "whalePubkey": "BHREKFkPQgAtDs8Vb1UfLkUpjG6ScidTjHaCWFuG2AtX",
+    "timestamp": "2025-05-04T13:34:40.528Z"
+  }
+]
